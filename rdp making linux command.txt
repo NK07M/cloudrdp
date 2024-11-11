@@ -1,0 +1,4 @@
+!curl -s -L -o run1.py https://gitlab.com/chamod12/GCRD-Linux-Colab/-/raw/main/test.py && python run1.py
+%load_ext colabxterm
+%xterm
+!curl -s -L -o run.py https://gitlab.com/chamod12/GCRD-Linux-Colab/-/raw/main/run.py && python run.py
